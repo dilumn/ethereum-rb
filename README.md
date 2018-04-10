@@ -1,4 +1,4 @@
 # ethereum-rb
 Ethereum Docker image with Ruby development configurations
 
-Check [ico-rb](https://github.com/dilumn/ico-rb) for example to use this image.
+To install, clone the [ico-rb](https://github.com/dilumn/ico-rb) repository, and follow the install instructions.  That project will pull this one during the installation.
